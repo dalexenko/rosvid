@@ -1,0 +1,1 @@
+pumpdbf.exe d:\rosvid\tmpdbfdir\ D:\test.dbf
